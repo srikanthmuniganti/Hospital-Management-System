@@ -1,0 +1,13 @@
+# registering new doctor input
+{
+    "docterId": "1",
+    "hospitalId": "Amma Hospital Networks",
+    "firstName": "dass",
+    "lastName": "muniganti",
+    "speciality": "neuro-surgeon",
+    "mobileNumber": "9603640285",
+    "salary": 100000.0,
+    "joiningDate": "2022-03-13",
+    "noOfAssignedCases": 4
+}
+
